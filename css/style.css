@@ -636,6 +636,42 @@ ul.btn li:last-child {
     transition: ease-in all 0.5s;
 }
 
+.our_products .product_box a {
+     width: 200px;
+     color: #fff;
+     font-size: 20px;
+     line-height: 20px;
+     background-color: #252525;
+     font-weight: 500;
+     margin: 0 auto;
+     padding: 10px 0;
+     margin-top: 40px;
+     transition: ease-in all 0.5s;
+ }
+ 
+ .our_products .product_box a:hover {
+    background: #48ca95;
+    transition: ease-in all 0.5s;
+ }
+ 
+ .our_products .product_box h2:hover {
+     background: #ec6417;
+     transition: ease-in all 0.5s;
+ }
+ 
+ .our_products .product_box h2 {
+      width: 200px;
+      color: #fff;
+      font-size: 20px;
+      line-height: 20px;
+      background-color: #483ea1;
+      font-weight: 500;
+      margin: 0 auto;
+      padding: 10px 0;
+      margin-top: 10px;
+      transition: ease-in all 0.5s;
+ }
+
 .margin_bottom1 {
      margin-bottom: 60px;
 }
