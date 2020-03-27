@@ -664,6 +664,17 @@ ul.btn li:last-child {
      padding: 10px 0;
 }
 
+.our_products li {
+     list-style: decimal;
+     width: 900px;
+     color: #000000;
+     font-size: 22px;
+     line-height: 10px;
+     font-weight: 400;
+     margin: 0 auto;
+     padding: 10px 0;
+}
+
 .margin_bottom1 {
      margin-bottom: 60px;
 }
